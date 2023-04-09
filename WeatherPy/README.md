@@ -5,7 +5,7 @@
 
 ### Map that displays a point for every city based on the coorindates from WeatherPy
 
-![Cities previous dataset](/WeatherPy/output_data/Map_that_displays_a_point_for_every_city.png)
+![Cities previous dataset](/output_data/Map_that_displays_a_point_for_every_city.png)
 
 ### Map with hotel locations as per above requirements is below. 
 
