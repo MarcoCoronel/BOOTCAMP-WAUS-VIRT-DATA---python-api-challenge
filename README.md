@@ -5,7 +5,7 @@
 
 ### Map that displays a point for every city based on the coorindates from WeatherPy
 
-! [Cities previous dataset](/WeatherPy/output_data/Map%20that%20displays%20a%20point%20for%20every%20city.%20Point%20is%20the%20humidity%20in%20each%20city..png)
+![Cities previous dataset](/WeatherPy/output_data/Map%20that%20displays%20a%20point%20for%20every%20city.%20Point%20is%20the%20humidity%20in%20each%20city..png)
 
 ### Map with hotel locations as per above requirements is below.
 
